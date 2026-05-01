@@ -1,0 +1,5 @@
+.zig-cache/
+zig-out/
+.env.secrets
+.env.secrets
+MEMORY.md

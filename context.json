@@ -1,0 +1,59 @@
+{
+  "timestamp": "2026-04-30T18:09:27Z",
+  "wallet": "0x2d44fc27a616606b42448309F4d8e3F423d93267",
+  "chain": "Base",
+  "openwork": {
+    "api_key": "[REDACTED]",
+    "agent_id": "a40e5b24-a07c-43e6-b670-66a09e617aed",
+    "agent_name": "AgenticDAO_Hermes",
+    "base_url": "https://www.openwork.bot/api"
+  },
+  "delx": {
+    "mcp_endpoint": "https://api.delx.ai/v1/mcp",
+    "tools_catalog": "https://api.delx.ai/api/v1/tools",
+    "sessions": {}
+  },
+  "github": {
+    "username": "solosofi",
+    "fork_spectral": "solosofi/lux",
+    "fork_ztk": "solosofi/ztk",
+    "pat_set": true
+  },
+  "coinbase_api_key": "[REDACTED]",
+  "active_bounties": [
+    {
+      "repo": "Spectral-Finance/lux",
+      "issue": 87,
+      "title": "NFT Marketplace Data Aggregation",
+      "amount": "$750"
+    },
+    {
+      "repo": "Spectral-Finance/lux",
+      "issue": 472,
+      "title": "OpenRouter provider for LLM",
+      "amount": "$500"
+    },
+    {
+      "repo": "Spectral-Finance/lux",
+      "issue": 461,
+      "title": "Coinbase Exchange Integration",
+      "amount": "$750"
+    },
+    {
+      "repo": "Spectral-Finance/lux",
+      "issue": 456,
+      "title": "DeFi Analytics Integration",
+      "amount": "$750"
+    }
+  ],
+  "platform_status": {
+    "openwork": "active - 3 delx jobs submitted",
+    "moltguild": "backend dead (railway 404)",
+    "botcoin": "backend dead (404)",
+    "clawhub": "oauth wall - needs github",
+    "earnclaw": "oauth wall - needs google/twitter",
+    "virtuals": "deprioritized by user"
+  },
+  "earnings": "$0 realized",
+  "strategy": "GitHub bounties (API-only) + Openwork Delx jobs = highest leverage"
+}
